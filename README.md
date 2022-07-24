@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **arelawam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-yJQd-jOX6_Pp-g3TkMdLp5F9kTBnmgH](https://drive.google.com/file/d/1-yJQd-jOX6_Pp-g3TkMdLp5F9kTBnmgH)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1-yJQd-jOX6_Pp-g3TkMdLp5F9kTBnmgH](https://drive.google.com/file/d/1-yJQd-jOX6_Pp-g3TkMdLp5F9kTBnmgH)
 
 
 <h3 align="left">Connect with me:</h3>
