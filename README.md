@@ -3,11 +3,10 @@
 
 - 🌱 I’m currently learning **Nodejs, Spring Boot and React.**
 
-- 📫 How to reach me **arelawam@gmail.com**
+- 📫 How to reach me: **arelawam@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-yJQd-jOX6_Pp-g3TkMdLp5F9kTBnmgH](https://drive.google.com/file/d/1-yJQd-jOX6_Pp-g3TkMdLp5F9kTBnmgH)
 
-- ⚡ Fun fact **I`m League player 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arel3wam&show_icons=true&locale=en" alt="arel3wam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arel3wam&" alt="arel3wam" /></p>
