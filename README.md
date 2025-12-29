@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Reda Elawam</h1>
-<h3 align="center">A Senior-2 Computer and Systems student, I`m interested in Software Engineering/MEAN Stack</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on **Design Creation, Benchmarking tool for Siemens EDA**
+- 🔭 I’m currently working at **Siemens EDA**
 
-- 🌱 I’m currently learning **MEAN stack**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **arelawam@gmail.com**
 
